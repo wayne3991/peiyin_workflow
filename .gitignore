@@ -1,0 +1,15 @@
+index-tts/
+克隆声音参考/
+output/
+字幕处理/
+未处理文案/
+归档文案/
+股东大会文案参考/
+投资大师文案参考/
+gen_*.py
+regenerate*.py
+subtitle_process.py
+Test/
+.lite_mode
+__pycache__/
+.DS_Store
