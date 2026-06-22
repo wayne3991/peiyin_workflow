@@ -2,7 +2,17 @@
 
 ## 安装
 
-**所有 AI 工具统一方法**：把 `peiyin-workflow.zip` 拖入对话框，说：
+### 方式一：GitHub 链接安装（推荐）
+
+把下面这句话发给 Agent：
+
+```
+安装 https://github.com/wayne3991/peiyin_workflow/raw/main/peiyin-workflow.zip
+```
+
+### 方式二：zip 拖入安装
+
+把 `peiyin-workflow.zip` 拖入对话框，说：
 
 | 工具 | 说的话 |
 |------|--------|
